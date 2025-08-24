@@ -7,5 +7,5 @@ public class EditorUser extends User{
 	}
 
 	public void editContent(int contentId, String body) {
-		/* exclusivo do editor */ }
+	}
 }

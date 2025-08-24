@@ -30,6 +30,7 @@ public abstract class User {
     }
 
     public boolean checkPassword(String p) {
+
         return password.equals(p);
     }
 }
